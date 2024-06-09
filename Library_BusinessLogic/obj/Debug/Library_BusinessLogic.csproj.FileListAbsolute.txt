@@ -1,0 +1,9 @@
+D:\Visual\Library_Project\Library_BusinessLogic\bin\Debug\Library_BusinessLogic.dll
+D:\Visual\Library_Project\Library_BusinessLogic\bin\Debug\Library_BusinessLogic.pdb
+D:\Visual\Library_Project\Library_BusinessLogic\bin\Debug\Library_DataAccess.dll
+D:\Visual\Library_Project\Library_BusinessLogic\bin\Debug\Library_DataAccess.pdb
+D:\Visual\Library_Project\Library_BusinessLogic\obj\Debug\Library_BusinessLogic.csproj.AssemblyReference.cache
+D:\Visual\Library_Project\Library_BusinessLogic\obj\Debug\Library_BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Visual\Library_Project\Library_BusinessLogic\obj\Debug\Library_.06F95835.Up2Date
+D:\Visual\Library_Project\Library_BusinessLogic\obj\Debug\Library_BusinessLogic.dll
+D:\Visual\Library_Project\Library_BusinessLogic\obj\Debug\Library_BusinessLogic.pdb

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual\\Library_Project\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359A9EFC-4FBB-4998-8B4F-D36C58989677}|..\\Library_DataAccess\\Library_DataAccess.csproj|d:\\visual\\library_project\\library_dataaccess\\clsdataaccesssetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58852D5-D305-4B7E-A81C-C32ADD0DBCFD}|Library.csproj|d:\\visual\\library_project\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58852D5-D305-4B7E-A81C-C32ADD0DBCFD}|Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDataAccessSetting.cs",
+              "DocumentMoniker": "D:\\Visual\\Library_Project\\Library_DataAccess\\clsDataAccessSetting.cs",
+              "RelativeDocumentMoniker": "..\\Library_DataAccess\\clsDataAccessSetting.cs",
+              "ToolTip": "D:\\Visual\\Library_Project\\Library_DataAccess\\clsDataAccessSetting.cs",
+              "RelativeToolTip": "..\\Library_DataAccess\\clsDataAccessSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:00:33.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual\\Library_Project\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual\\Library_Project\\Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwCIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:41:05.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

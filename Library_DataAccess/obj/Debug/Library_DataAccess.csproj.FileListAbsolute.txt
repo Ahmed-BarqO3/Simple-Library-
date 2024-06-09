@@ -1,0 +1,6 @@
+D:\Visual\Library_Project\Library_DataAccess\bin\Debug\Library_DataAccess.dll
+D:\Visual\Library_Project\Library_DataAccess\bin\Debug\Library_DataAccess.pdb
+D:\Visual\Library_Project\Library_DataAccess\obj\Debug\Library_DataAccess.csproj.AssemblyReference.cache
+D:\Visual\Library_Project\Library_DataAccess\obj\Debug\Library_DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual\Library_Project\Library_DataAccess\obj\Debug\Library_DataAccess.dll
+D:\Visual\Library_Project\Library_DataAccess\obj\Debug\Library_DataAccess.pdb
