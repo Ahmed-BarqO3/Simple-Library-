@@ -5,13 +5,15 @@ This project outlines the requirements for a simple Library Management System. T
 
 ## Database Implementation
 
-This project uses **SQL Server** to manage the library's database operations. The following Stored Procedures & Triggers:
+This project uses **SQL Server** to manage the library's database operations. The following Stored Procedures and Triggers:
 
 ### Stored Procedures
-- **Stored procedures** are used to encapsulate and execute queries and operations within the database efficiently. They help in maintaining data integrity and improving performance.
+- **Stored procedures** are used to encapsulate and execute queries and operations within the database efficiently.
+   They help in maintaining data integrity and improving performance.
 
 ### Triggers
-- **Triggers** are implemented to automatically execute predefined actions in response to certain events on a particular table . For instance, triggers are used to update book availability status upon borrowing or returning, and to calculate fines for overdue books.
+- **Triggers** are implemented to automatically execute predefined actions in response to certain events on a particular table.
+   For instance, triggers are used to update book availability status upon borrowing or returning, and to calculate fines for overdue books.
 
 ## Features
 
